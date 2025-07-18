@@ -1,0 +1,17 @@
+# Blender specific
+*.blend1
+*.blend2
+*.blend@
+*.blend#
+*.blend.~??~
+*.swp
+*.autosave
+
+# Render output
+/renders/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
